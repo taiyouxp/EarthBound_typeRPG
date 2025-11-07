@@ -41,7 +41,7 @@ This manages the project, downloads all libraries, and runs the code.
     sudo dnf install maven
     ```
 
-* **🐧 Linux (Arch)**
+* **Linux (Arch)**
     ```bash
     sudo pacman -S maven
     ```
@@ -198,7 +198,6 @@ To make any change to the database (add a table, alter a column), you must creat
 
 2. Name it with the next version number:
 * V2__Some_new_feature.sql
-
 * V3__Create_items_table.sql
 
 3. Write _only_ the new sql commands in that file. 
